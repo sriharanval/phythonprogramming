@@ -6,4 +6,4 @@ elif(-1>=num >=-100000):
 elif(num==0):
     print("zero");
 else:
-        print("the number exceed the limit.")
+    print("the number exceed the limit.")
